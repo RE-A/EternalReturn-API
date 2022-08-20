@@ -7,7 +7,7 @@ class ERUser:
         self.client : Client = api_client
 
 
-    def get_user(self, nickname:str):
+    def get_user_data(self, nickname:str):
         pass
 
 
